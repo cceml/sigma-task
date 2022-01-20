@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "802204496502",
+    "project_id": "kullanicilar-73480",
+    "storage_bucket": "kullanicilar-73480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802204496502:android:d0e9f0e58dc9f7310aa557",
+        "android_client_info": {
+          "package_name": "com.example.sigma_tel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802204496502-sfnna3403om9i3j63ru6ff1e0d7cqbs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBr96iFk6SHYrt_0V9O93KWAwEyXng-LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802204496502-sfnna3403om9i3j63ru6ff1e0d7cqbs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802204496502:android:9846e0ffecf358c80aa557",
+        "android_client_info": {
+          "package_name": "com.example.sigmatask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802204496502-sfnna3403om9i3j63ru6ff1e0d7cqbs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBr96iFk6SHYrt_0V9O93KWAwEyXng-LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802204496502-sfnna3403om9i3j63ru6ff1e0d7cqbs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
